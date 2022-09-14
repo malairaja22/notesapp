@@ -1,0 +1,19 @@
+.dark-mode div .card{
+    background-color: black;
+        border: solid white;
+        
+        
+        
+}
+.dark-mode{
+    background-color: black;
+        color: white;
+}
+
+.card{
+border: 0.1rem solid black;
+background-color: aquamarine;
+}
+body{
+    background-color: whitesmoke;
+}

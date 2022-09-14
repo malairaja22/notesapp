@@ -1,0 +1,19 @@
+
+li{
+    list-style-type: none;
+}
+textarea{
+    height:11rem;
+}
+.card{
+    height:16rem;
+}
+*{
+    font-size: 0.9rem;
+}
+.textview1{
+    height:10rem;
+}
+button{
+    color: white !important;
+}
